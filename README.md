@@ -26,7 +26,7 @@ In Progress
 - [x] Data Loading
 - [x] Data Cleaning
 - [x] Univariate Analysis
-- [ ] Bivariate Analysis
+- [x] Bivariate Analysis
 - [ ] Multivariate Analysis
 - [ ] Feature Engineering
 - [ ] Final Business Insights
